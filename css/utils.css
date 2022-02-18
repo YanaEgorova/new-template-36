@@ -203,9 +203,3 @@ body.error-active .error__overlay {
   font-size: 10rem;
 }
 }
-@media screen and (min-width: 1024px) {
-
-.logo {
-  font-size: 3rem;
-}
-}
